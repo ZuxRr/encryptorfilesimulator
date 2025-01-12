@@ -18,7 +18,7 @@ Tutorial Penggunaan
 2. Klik tombol "Run Simulation" di GUI.
 3. Simulator akan mengenkripsi file pertama di desktop dan mengisi desktop dengan salinan file terenkripsi.
 
-Perlu diingat bahwa kode ini dapat mengisi desktop dengan file terenkripsi dan jumlahnya TIDAK AKAN BERHENTI BERTAMBAH SAMPAI DRIVE PENUH, sehingga pastikan untuk membackup file penting atau menggunakan vmware/virtualbox sebelum menjalankannya.
+Perlu diingat bahwa kode ini dapat mengisi desktop dengan file terenkripsi yang sangat banyak sehingga bisa membuat device yang kentunkkk tidak kuat.oleh karena itu harus backup data penting dulu sebelum menjalankannya.
 
 file ini tidak pakai decryptor, kalau mau menonaktifkannya
 cara 1
